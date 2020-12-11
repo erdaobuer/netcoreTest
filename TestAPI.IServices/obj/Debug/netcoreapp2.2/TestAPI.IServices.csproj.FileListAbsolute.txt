@@ -1,0 +1,13 @@
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestAPI.IServices.deps.json
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestAPI.IServices.dll
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestAPI.IServices.pdb
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.AssemblyInfoInputs.cache
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.AssemblyInfo.cs
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.csproj.CoreCompileInputs.cache
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.dll
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.pdb
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestModel.dll
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestModel.pdb
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\bin\Debug\netcoreapp2.2\TestModel.xml
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.csprojAssemblyReference.cache
+D:\DOTNET_EXAMPLE\netcore\netcoretest\TestAPI.IServices\obj\Debug\netcoreapp2.2\TestAPI.IServices.csproj.CopyComplete

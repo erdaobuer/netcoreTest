@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestModel</name>
+    </assembly>
+    <members>
+        <member name="T:TestModel.Love">
+            <summary>
+            this is love
+            </summary>
+        </member>
+        <member name="P:TestModel.Love.Id">
+            <summary>
+            工号
+            </summary>
+        </member>
+        <member name="P:TestModel.Love.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:TestModel.Love.Age">
+            <summary>
+            岁数
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.ImgUrl">
+            <summary>
+            广告图片
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.Title">
+            <summary>
+            广告标题
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.Url">
+            <summary>
+            广告链接
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:TestModel.Models.Advertisement.Createdate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToInt(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToInt(System.Object,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToMoney(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToMoney(System.Object,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToString(System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToDecimal(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToDecimal(System.Object,System.Decimal)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToDate(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToDate(System.Object,System.DateTime)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestModel.UtilConvert.ObjToBool(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

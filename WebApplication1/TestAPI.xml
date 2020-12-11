@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.TestAPIController.Get(System.Int32,System.Int32)">
+            <summary>
+            Sum接口
+            </summary>
+            <param name="i">参数i</param>
+            <param name="j">参数j</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.TestAPIController.Get(System.Int32)">
+            <summary>
+            sqlsugar测试
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:WebApplication1.Program.Main(System.String[])" -->
+        <member name="M:WebApplication1.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:WebApplication1.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            configureservices方法时用来把services(各种服务，例identity,ef,mvc等等包括第三方的，
+            或者自己写的)加入(register)到container(asp.netcore的容器)中去，并配置这些services.
+            这个container是用来进行dependency injection的(依赖注入). 
+            所有注入的services(此外还包括一些框架已经注册好的services) 在以后写代码的时候, 都可以将它们注入(inject)进去. 
+            例如上面的Configure方法的参数, app, env, loggerFactory都是注入进去的services.
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

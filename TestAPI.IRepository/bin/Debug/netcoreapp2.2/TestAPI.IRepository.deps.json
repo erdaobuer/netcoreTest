@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "TestAPI.IRepository/1.0.0": {
+        "dependencies": {
+          "TestModel": "1.0.0"
+        },
+        "runtime": {
+          "TestAPI.IRepository.dll": {}
+        }
+      },
+      "TestModel/1.0.0": {
+        "runtime": {
+          "TestModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAPI.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
